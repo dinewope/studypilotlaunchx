@@ -112,7 +112,7 @@ export default function Home() {
                 <CardHeader>
                   <CardTitle>Individual Plan</CardTitle>
                   <CardDescription>Perfect for one child ready to become a time management pro.</CardDescription>
-                  <div className="text-4xl font-bold pt-4">$12.50<span className="text-lg font-normal text-muted-foreground">/one-time</span></div>
+                  <div className="text-4xl font-bold pt-4">$12.50<span className="text-lg font-normal text-muted-foreground">/3months</span></div>
                 </CardHeader>
                 <CardContent className="space-y-4">
                   <ul className="grid gap-2 text-left">
@@ -132,7 +132,7 @@ export default function Home() {
                 <CardHeader>
                   <CardTitle>Family Plan</CardTitle>
                   <CardDescription>Get the whole family organized and on track.</CardDescription>
-                  <div className="text-4xl font-bold pt-4">$17.50<span className="text-lg font-normal text-muted-foreground">/one-time</span></div>
+                  <div className="text-4xl font-bold pt-4">$17.50<span className="text-lg font-normal text-muted-foreground">/5 months</span></div>
                 </CardHeader>
                 <CardContent className="space-y-4">
                   <ul className="grid gap-2 text-left">
