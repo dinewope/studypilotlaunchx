@@ -58,7 +58,7 @@ export default function SignupPage() {
                                 <Label htmlFor="individual" className="flex flex-col items-center justify-between rounded-md border-2 border-muted bg-popover p-4 hover:bg-accent hover:text-accent-foreground peer-data-[state=checked]:border-primary [&:has([data-state=checked])]:border-primary">
                                     <h3 className="font-semibold">Individual</h3>
                                     <p className="text-2xl font-bold">$12.50</p>
-                                    <p className="text-sm text-muted-foreground">One-time</p>
+                                    <p className="text-sm text-muted-foreground">3 months</p>
                                 </Label>
                             </div>
                              <div>
@@ -66,7 +66,7 @@ export default function SignupPage() {
                                 <Label htmlFor="family" className="flex flex-col items-center justify-between rounded-md border-2 border-muted bg-popover p-4 hover:bg-accent hover:text-accent-foreground peer-data-[state=checked]:border-primary [&:has([data-state=checked])]:border-primary">
                                     <h3 className="font-semibold">Family</h3>
                                     <p className="text-2xl font-bold">$17.50</p>
-                                    <p className="text-sm text-muted-foreground">One-time</p>
+                                    <p className="text-sm text-muted-foreground">5 months</p>
                                 </Label>
                             </div>
                         </RadioGroup>
