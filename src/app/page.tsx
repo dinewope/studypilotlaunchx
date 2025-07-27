@@ -64,7 +64,11 @@ export default function Home() {
                 </div>
               </div>
                <div className="mx-auto aspect-video overflow-hidden rounded-xl object-cover w-[600px] h-[400px] bg-secondary flex items-center justify-center">
-                <Image  src="/images/studypilot logo.jpeg" alt="Boy studying" layout="fill" objectFit="cover" data-ai-hint="child studying"/>
+                <img
+                  src="https://i.postimg.cc/5062qyLS/2025-07-27-131354.png"
+                  alt="Studypilot Logo"
+                  className="w-full h-full object-cover"
+                />
               </div>
             </div>
           </div>
