@@ -110,7 +110,7 @@ export default function Home() {
             <div className="mx-auto w-full max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-8 pt-12">
               <Card className="shadow-lg">
                 <CardHeader>
-                  <CardTitle>Individual Plan</CardTitle>
+                 
                   <CardDescription>Perfect for one child ready to become a time management pro.</CardDescription>
                   <div className="text-4xl font-bold pt-4">$12.50<span className="text-lg font-normal text-muted-foreground">/3 months</span></div>
                 </CardHeader>
@@ -130,7 +130,7 @@ export default function Home() {
               <Card className="border-primary border-2 shadow-xl relative">
                 <div className="absolute top-0 right-4 -mt-4 bg-primary text-primary-foreground px-3 py-1 text-sm font-semibold rounded-full">Most Popular</div>
                 <CardHeader>
-                  <CardTitle>Family Plan</CardTitle>
+                  
                   <CardDescription>Get the whole family organized and on track.</CardDescription>
                   <div className="text-4xl font-bold pt-4">$17.50<span className="text-lg font-normal text-muted-foreground">/5 months</span></div>
                 </CardHeader>
