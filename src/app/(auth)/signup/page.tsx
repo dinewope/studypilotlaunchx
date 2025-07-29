@@ -20,7 +20,7 @@ export default function SignupPage() {
     const [paymentCompleted, setPaymentCompleted] = React.useState(false);
 
     const paymentLink = selectedPlan === 'individual' 
-        ? 'https://buy.stripe.com/28EeVc3Pd5zxbXr04z5AR1g' 
+        ? 'https://buy.stripe.com/6oU6oG0D19PNaTncRl5AR1p' 
         : 'https://buy.stripe.com/5kQ6oG1H5bXVgdH7x15AR1h';
 
     return (
